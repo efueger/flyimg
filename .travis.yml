@@ -1,6 +1,6 @@
 env:
   global:
-    - CC_TEST_REPORTER_ID=c7264c1346c36d566e283acdb77d379d38ed2a61ef31f0dcf00b592e3de0c90f
+    - CC_TEST_REPORTER_ID=937fd38905da44b37497eea05ce57814ce3b7dc03da65e4a33bf09a023bca59a
 
 language: php
 
@@ -27,7 +27,3 @@ branches:
   only:
   - master
 
-notifications:
-  email:
-    - sadoknet@gmail.com
-    - baamenabar@gmail.com
